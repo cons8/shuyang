@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"李书洋","nickname":"","note":"","profile":"李书洋，清平镇中一颗闪耀的勇者之星。他生就一副热血肝胆，心怀壮志凌云，对世间神秘莫测之事满怀热忱与探索渴望。自幼在清平镇的烟火人间中摸爬滚打，练就了他坚韧不拔的意志与灵动矫健的身手。虽行事偶有莽撞冲动之举，却总能凭借聪慧机智和不屈不挠的精神在困境中绝境逢生。其性格豪爽不羁，重情重义，笑对艰难险阻，以无畏之姿毅然踏上拯救天下苍生之路，在灵虚秘境的奇幻冒险征程中，逐渐成长为令邪恶胆寒、让希望重燃的传奇勇者。"},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":1,"equips":[1,0,0,9,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"普丽西拉","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":5,"equips":[31,0,65,5,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"盖尔","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":5,"equips":[31,0,0,5,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"米歇尔","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[7,0,0,20,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"艾伯特","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"凯西","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"埃利奥特","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"罗萨","nickname":"","note":"","profile":""}
+]
